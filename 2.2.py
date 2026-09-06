@@ -1,3 +1,4 @@
+#Data Type: মিাAলর ধরন
 naam = "Rakib"  # str → text/ཨলখো (quote-এর ཨভেতլর)
 boyosh = 25     # int → পূՑর্ণ সংখ্যো
 ucchota = 5.8   # float → দশেզমক সংখ্যো
