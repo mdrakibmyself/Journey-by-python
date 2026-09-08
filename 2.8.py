@@ -11,3 +11,12 @@ print(jatri)
 
 for name in jatri:
     print("Passengers : ", name)
+    
+    
+#slicing 
+print(jatri[1:3])
+print(jatri[:2])
+print(jatri[-1])
+print(jatri[-2])
+
+
