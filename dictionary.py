@@ -26,3 +26,14 @@ student["grade"] = "A" #New key value added
 for key in student:
     print(key,":",student[key])
     
+product = {
+    "name": "Lipstick",
+    "price": "150",
+    "stock": "20"
+}
+print(product["price"])
+
+product["brand"] = "Maybelline"
+
+for x in product:
+    print(x,":", product[x])
