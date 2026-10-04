@@ -9,4 +9,14 @@ jatri2 = jatri("Rahim" , "28", "B2")
 print(jatri1.naam)
 print(jatri2.naam)
 
-    
+
+class Student:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    def introduce(self):
+        print("my name" + self.name + ", my age" + str(self.age))
+
+s2 = Student("Fahim", 22)
+s2.introduce()
